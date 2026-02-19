@@ -1,5 +1,12 @@
 # 💫 About Me:
-Explainable AI–based Pneumonia Detection using CNNs (Final Year Project)<br>Improving real-time Flutter + Firebase applications<br>AI/ML projects (Computer Vision, CNNs, Explainable AI)<br>Flutter apps with Firebase & real-time features<br>Open-source projects related to ML or mobile development<br>
+# Hi, I'm Pradeep 👋
+### Software Engineer | Competitive Programmer | Open Source Enthusiast
+
+🔹 Final year B.Tech (CSE)  
+🔹 Strong in Java, Python, DSA & ML basics  
+🔹 Active on LeetCode, Codeforces, AtCoder  
+🔹 Building and contributing to real code
+
 
 
 ## 🌐 Socials:
